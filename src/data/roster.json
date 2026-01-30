@@ -1,0 +1,296 @@
+[
+  {
+    "id": "blue-001",
+    "name": "Nova Caldwell",
+    "codename": "Cipher",
+    "backstory": "A former signal analyst who can read the pulse of a city in a single burst, Cipher now routes Zion's blue channel with ruthless precision.",
+    "imageFile": "operative-01.jpg"
+  },
+  {
+    "id": "blue-002",
+    "name": "Dante Xu",
+    "codename": "Specter",
+    "backstory": "Once a black-site infiltrator, Specter walks the data-stream unseen, removing threats before they breach the hull.",
+    "imageFile": "operative-02.jpg"
+  },
+  {
+    "id": "blue-003",
+    "name": "Alyssa Kade",
+    "codename": "Pulse",
+    "backstory": "Pulse keeps the grid alive with a heartbeat of stolen power, rerouting energy to keep Zion's shields online.",
+    "imageFile": "operative-03.jpg"
+  },
+  {
+    "id": "blue-004",
+    "name": "Miles Ortega",
+    "codename": "Ghostlink",
+    "backstory": "An ex-courier who outran machine patrols on the surface, Ghostlink now runs insurgent supply chains through the city's veins.",
+    "imageFile": "operative-04.jpg"
+  },
+  {
+    "id": "blue-005",
+    "name": "Sage Monroe",
+    "codename": "Helix",
+    "backstory": "Helix rewrites machine algorithms into protective loops, turning the enemy's logic into Zion's armor.",
+    "imageFile": "operative-05.jpg"
+  },
+  {
+    "id": "blue-006",
+    "name": "Kieran Holt",
+    "codename": "Rift",
+    "backstory": "Rift crafts breaches in the Matrix architecture, opening corridors for the rebellion to move unseen.",
+    "imageFile": "operative-06.jpg"
+  },
+  {
+    "id": "blue-007",
+    "name": "Talia Rivas",
+    "codename": "Nyx",
+    "backstory": "Nyx is a stealth tactician whose strike plans erase machine patrols before they register on radar.",
+    "imageFile": "operative-07.jpg"
+  },
+  {
+    "id": "blue-008",
+    "name": "Roman Keane",
+    "codename": "Vortex",
+    "backstory": "Vortex maintains the rebel comms array, twisting surveillance signals into actionable intel.",
+    "imageFile": "operative-08.jpg"
+  },
+  {
+    "id": "blue-009",
+    "name": "Iris Wolfe",
+    "codename": "Glitch",
+    "backstory": "Glitch plants corrupted decoys across the simulation, giving Zion the seconds it needs to strike.",
+    "imageFile": "operative-09.jpg"
+  },
+  {
+    "id": "blue-010",
+    "name": "Ezra Park",
+    "codename": "Arc",
+    "backstory": "Arc traces the electromagnetic trail of every sentinel, mapping safe passages through the undercity.",
+    "imageFile": "operative-10.jpg"
+  },
+  {
+    "id": "blue-011",
+    "name": "Juno Vega",
+    "codename": "Echo",
+    "backstory": "Echo archives rebel victories and failures alike, turning memory into strategy.",
+    "imageFile": "operative-11.jpg"
+  },
+  {
+    "id": "blue-012",
+    "name": "Rafael Chen",
+    "codename": "Lock",
+    "backstory": "Lock is the last defense between Zion and collapse, sealing every breach with clean, precise code.",
+    "imageFile": "operative-12.jpg"
+  },
+  {
+    "id": "blue-013",
+    "name": "Elara Knox",
+    "codename": "Oracle",
+    "backstory": "Oracle sees the pattern in every anomaly, predicting machine moves before the alarms fire.",
+    "imageFile": "operative-13.jpg"
+  },
+  {
+    "id": "blue-014",
+    "name": "Vince Arden",
+    "codename": "Forge",
+    "backstory": "Forge reforges scavenged tech into weapons the machine cannot anticipate.",
+    "imageFile": "operative-14.jpg"
+  },
+  {
+    "id": "blue-015",
+    "name": "Mira Voss",
+    "codename": "Haven",
+    "backstory": "Haven maintains the safehouses across the grid, sheltering operatives between runs.",
+    "imageFile": "operative-15.jpg"
+  },
+  {
+    "id": "blue-016",
+    "name": "Julian Cross",
+    "codename": "Cipher",
+    "backstory": "Cipher decodes enemy transmissions, extracting truths hidden under layers of encryption.",
+    "imageFile": "operative-16.jpg"
+  },
+  {
+    "id": "blue-017",
+    "name": "Lena Hart",
+    "codename": "Ion",
+    "backstory": "Ion runs power into Zion's defenses, keeping the blue team arsenal primed for impact.",
+    "imageFile": "operative-17.jpg"
+  },
+  {
+    "id": "blue-018",
+    "name": "Kai Mercer",
+    "codename": "Surge",
+    "backstory": "Surge is the first strike specialist, disrupting machine cores with surgical bursts.",
+    "imageFile": "operative-18.jpg"
+  },
+  {
+    "id": "blue-019",
+    "name": "Isla Quinn",
+    "codename": "Shard",
+    "backstory": "Shard manipulates fragmented data trails to misdirect enemy hunters.",
+    "imageFile": "operative-19.jpg"
+  },
+  {
+    "id": "blue-020",
+    "name": "Silas Ray",
+    "codename": "Rook",
+    "backstory": "Rook commands the tactical oversight deck, orchestrating multi-cell maneuvers in the dark.",
+    "imageFile": "operative-20.jpg"
+  },
+  {
+    "id": "blue-021",
+    "name": "Zara Blix",
+    "codename": "Sable",
+    "backstory": "Sable manipulates shadow channels to keep Zion's strikes invisible to the machine.",
+    "imageFile": "operative-21.jpg"
+  },
+  {
+    "id": "blue-022",
+    "name": "Noah Drake",
+    "codename": "Drift",
+    "backstory": "Drift pilots the blue team through unstable corridors, never letting the system lock on.",
+    "imageFile": "operative-22.jpg"
+  },
+  {
+    "id": "blue-023",
+    "name": "Selene Ward",
+    "codename": "Warden",
+    "backstory": "Warden enforces the firewall perimeter and knows every access key in the arsenal.",
+    "imageFile": "operative-23.jpg"
+  },
+  {
+    "id": "blue-024",
+    "name": "Omar Blane",
+    "codename": "Vector",
+    "backstory": "Vector plots escape routes in real time, steering the team away from machine ambushes.",
+    "imageFile": "operative-24.jpg"
+  },
+  {
+    "id": "blue-025",
+    "name": "Petra Nyx",
+    "codename": "Flux",
+    "backstory": "Flux controls the rhythm of the intel feed, ensuring nothing important is lost in the noise.",
+    "imageFile": "operative-25.jpg"
+  },
+  {
+    "id": "blue-026",
+    "name": "Ronan Vale",
+    "codename": "Pulse",
+    "backstory": "Pulse ignites machine cores with a cascade of blue-light counterattacks.",
+    "imageFile": "operative-26.jpg"
+  },
+  {
+    "id": "blue-027",
+    "name": "Cassia Holt",
+    "codename": "Cipher",
+    "backstory": "Cipher holds the insurgent encryption lattice, shielding every signal moving through Zion.",
+    "imageFile": "operative-27.jpg"
+  },
+  {
+    "id": "blue-028",
+    "name": "Lucian Frost",
+    "codename": "Proxy",
+    "backstory": "Proxy maintains the digital decoys that keep the machine hunting ghosts.",
+    "imageFile": "operative-28.jpg"
+  },
+  {
+    "id": "blue-029",
+    "name": "Evelyn Shore",
+    "codename": "Halo",
+    "backstory": "Halo is the guardian of the medbay, keeping operatives stabilized after deep runs.",
+    "imageFile": "operative-29.jpg"
+  },
+  {
+    "id": "blue-030",
+    "name": "Hector Blaze",
+    "codename": "Forge",
+    "backstory": "Forge can rebuild a sentry gun from scrap and turn it on the machine in minutes.",
+    "imageFile": "operative-30.jpg"
+  },
+  {
+    "id": "blue-031",
+    "name": "Lyra Stein",
+    "codename": "Siren",
+    "backstory": "Siren diverts surveillance drones with sonic pulses, clearing the deck for extraction.",
+    "imageFile": "operative-31.jpg"
+  },
+  {
+    "id": "blue-032",
+    "name": "Gideon Lux",
+    "codename": "Kernel",
+    "backstory": "Kernel crafts the core architecture for every Blue Pill incursion into the Matrix.",
+    "imageFile": "operative-32.jpg"
+  },
+  {
+    "id": "blue-033",
+    "name": "Harper Sloane",
+    "codename": "Ridge",
+    "backstory": "Ridge is the mountain between the Blue Team and disaster, reinforcing every weak point.",
+    "imageFile": "operative-33.jpg"
+  },
+  {
+    "id": "blue-034",
+    "name": "Mason Holt",
+    "codename": "Vector",
+    "backstory": "Vector times each breach to the millisecond, ensuring the team always outruns the alarms.",
+    "imageFile": "operative-34.jpg"
+  },
+  {
+    "id": "blue-035",
+    "name": "Nadia Vale",
+    "codename": "Oracle",
+    "backstory": "Oracle can smell a machine trap in the wind and reroute the team before the ambush closes.",
+    "imageFile": "operative-35.jpg"
+  },
+  {
+    "id": "blue-036",
+    "name": "Orion Blake",
+    "codename": "Axon",
+    "backstory": "Axon engineers the neural rigging that keeps rebel pilots synced to the Matrix's pulse.",
+    "imageFile": "operative-36.jpg"
+  },
+  {
+    "id": "blue-037",
+    "name": "Reese Kade",
+    "codename": "Slate",
+    "backstory": "Slate wipes the last trace of a run clean, leaving the machine blind to the team's presence.",
+    "imageFile": "operative-37.jpg"
+  },
+  {
+    "id": "blue-038",
+    "name": "Soren Pike",
+    "codename": "Strafe",
+    "backstory": "Strafe strafes the skyline with precision strikes, shattering machine advance squads.",
+    "imageFile": "operative-38.jpg"
+  },
+  {
+    "id": "blue-039",
+    "name": "Dahlia Cross",
+    "codename": "Halo",
+    "backstory": "Halo anchors the evacuation teams, keeping every rebel safe on the surface.",
+    "imageFile": "operative-39.jpg"
+  },
+  {
+    "id": "blue-040",
+    "name": "Niko Vega",
+    "codename": "Vigil",
+    "backstory": "Vigil never sleeps, tracking the machine's cold shadow across every channel.",
+    "imageFile": "operative-40.jpg"
+  },
+  {
+    "id": "blue-041",
+    "name": "Aria Lane",
+    "codename": "Prism",
+    "backstory": "Prism bends the Matrix's light, cloaking rebel strike teams as they move through the grid.",
+    "imageFile": "operative-41.jpg"
+  },
+  {
+    "id": "blue-042",
+    "name": "Tomas Vale",
+    "codename": "Vantage",
+    "backstory": "Vantage oversees the overwatch turrets, ensuring every operative returns to Zion.",
+    "imageFile": "operative-42.jpg"
+  }
+]

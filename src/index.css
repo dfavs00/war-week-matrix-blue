@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600;700&family=Share+Tech+Mono&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark light;
+  font-family: 'Share Tech Mono', ui-monospace, monospace;
+  background-color: #05070f;
+  color: #e6f3ff;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --matrix-bg: #f4f8ff;
+    --matrix-panel: rgba(230, 238, 255, 0.92);
+    --matrix-border: rgba(35, 90, 160, 0.35);
+    --matrix-accent: #1d63c3;
+    --matrix-text: #0f2744;
+    --matrix-muted: #30537a;
+    background-color: var(--matrix-bg);
+    color: var(--matrix-text);
+  }
+
+  body {
+    background-color: var(--matrix-bg);
+  }
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background-color: #05070f;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+:root {
+  --matrix-bg: #05070f;
+  --matrix-panel: rgba(7, 16, 32, 0.85);
+  --matrix-border: rgba(70, 140, 220, 0.35);
+  --matrix-accent: #5bb7ff;
+  --matrix-text: #e6f3ff;
+  --matrix-muted: #8fb4d6;
+}
+
+.matrix-gradient {
+  background: radial-gradient(circle at top left, rgba(36, 92, 170, 0.35), transparent 55%),
+    radial-gradient(circle at 70% 20%, rgba(12, 50, 120, 0.5), transparent 60%),
+    linear-gradient(135deg, rgba(5, 7, 15, 0.9), rgba(3, 5, 12, 0.98));
+}
+
+.matrix-grid {
+  background-image: linear-gradient(rgba(80, 160, 255, 0.08) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(80, 160, 255, 0.08) 1px, transparent 1px);
+  background-size: 90px 90px;
+  opacity: 0.4;
+}
+
+.matrix-rain {
+  background-image: linear-gradient(
+    180deg,
+    rgba(105, 200, 255, 0.25) 0%,
+    rgba(20, 80, 160, 0.05) 35%,
+    transparent 55%
+  );
+  animation: matrix-rain 8s linear infinite;
+}
+
+.matrix-scanline {
+  background: repeating-linear-gradient(
+    to bottom,
+    rgba(40, 120, 200, 0.08),
+    rgba(40, 120, 200, 0.08) 1px,
+    transparent 1px,
+    transparent 4px
+  );
+  mix-blend-mode: screen;
+}
+
+.matrix-highlight {
+  background: linear-gradient(120deg, transparent 0%, rgba(110, 200, 255, 0.12) 50%, transparent 100%);
+}
+
+.matrix-stat {
+  border: 1px solid var(--matrix-border);
+  border-radius: 1rem;
+  padding: 1rem 1.25rem;
+  background: rgba(8, 20, 40, 0.65);
+  box-shadow: 0 0 20px rgba(80, 165, 255, 0.15);
+}
+
+@keyframes matrix-rain {
+  0% {
+    transform: translateY(-40%);
+  }
+  100% {
+    transform: translateY(40%);
+  }
+}
