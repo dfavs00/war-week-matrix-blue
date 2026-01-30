@@ -107,7 +107,8 @@ body {
 }
 
 .matrix-flip:hover .matrix-flip-inner,
-.matrix-flip:focus-within .matrix-flip-inner {
+.matrix-flip:focus-within .matrix-flip-inner,
+.matrix-flip:active .matrix-flip-inner {
   transform: rotateY(180deg);
 }
 

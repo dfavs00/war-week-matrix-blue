@@ -332,7 +332,7 @@
     "name": "Victoria Campbell",
     "codename": "Vic-Kamala",
     "nameDescription": "A lore-anchored nod to Kamala (Rama-Kandra's daughter) and the Exile programs — her work feels like a child-program's 'harmless' patching, hiding in plain sight inside the system.",
-    "backstory": "Vic-Kamala crafts clean, reversible corruptors that behave like Exile artifacts: they slip past machine policy checks, reroute hostile logic, and then self-erase without leaving a trace in the audit stream.",
+    "backstory": "Vic-Kamala crafts clean, reversible corruptors that slip past machine policy checks, reroute hostile logic, and self-erase without a trace.",
     "imageFile": "vcampbell.png"
   }
 ]
