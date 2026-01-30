@@ -51,3 +51,26 @@ npm run preview
 ## GitHub Pages
 
 The Vite base path is already set to `/war-week-matrix-blue/` in `vite.config.ts`.
+
+### Deploy
+
+This repo uses `gh-pages` with a `deploy` script.
+
+```bash
+npm run deploy
+```
+
+That will build the app and publish the `dist/` folder to the `gh-pages` branch.
+
+### One-time setup (GitHub)
+
+1. Go to **Settings → Pages** in the GitHub repo.
+2. Set **Source** to **Deploy from a branch**.
+3. Select **gh-pages** and **/ (root)**.
+4. Save.
+
+After the first deploy, the site should be available at:
+
+```
+https://dfavs00.github.io/war-week-matrix-blue/
+```

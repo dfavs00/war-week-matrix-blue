@@ -30,12 +30,12 @@ const RosterHeader = ({ stats }: RosterHeaderProps) => {
           <p className="text-2xl font-semibold text-[var(--matrix-text)]">{stats.totalOperatives}</p>
         </div>
         <div className="matrix-stat">
-          <p className="text-xs uppercase tracking-[0.35em] text-[var(--matrix-muted)]">Active Cells</p>
-          <p className="text-2xl font-semibold text-[var(--matrix-text)]">{stats.activeCells}</p>
+          <p className="text-xs uppercase tracking-[0.35em] text-[var(--matrix-muted)]">One Mission</p>
+          <p className="text-2xl font-semibold text-[var(--matrix-text)]">Winning</p>
         </div>
         <div className="matrix-stat">
-          <p className="text-xs uppercase tracking-[0.35em] text-[var(--matrix-muted)]">Unique Codenames</p>
-          <p className="text-2xl font-semibold text-[var(--matrix-text)]">{stats.uniqueCodenames}</p>
+          <p className="text-xs uppercase tracking-[0.35em] text-[var(--matrix-muted)]">Robots Defeated</p>
+          <p className="text-2xl font-semibold text-[var(--matrix-text)]">128</p>
         </div>
       </div>
     </header>

@@ -23,12 +23,25 @@ const RosterPage = ({}: RosterPageProps) => {
         <SectionFrame title="Operative Grid" subtitle="Zion Rebel Cadre">
           <RosterGrid profiles={roster} />
         </SectionFrame>
-        <SectionFrame title="Arsenal Expansion" subtitle="Future Protocol Slots">
+        <SectionFrame title="Red Team Reality Check" subtitle="Simulation: Unfavorable">
           <div className="grid gap-4 md:grid-cols-3">
-            {['Strategy Generator', 'Glitch Detector', 'Signal Forensics'].map((item) => (
-              <div key={item} className="rounded-xl border border-dashed border-[var(--matrix-border)] p-4 text-sm text-[var(--matrix-muted)]">
-                <p className="font-display text-base text-[var(--matrix-text)]">{item}</p>
-                <p className="mt-2">Reserved channel for advanced AI tactics and mission tooling.</p>
+            {[
+              {
+                title: 'Packet Loss Prophecy',
+                copy: 'Red Team pings the void while Blue Team routes clean signals straight to the mainframe.',
+              },
+              {
+                title: 'Latency Forecast',
+                copy: 'Their exploits queue up; our countermeasures execute in real time.',
+              },
+              {
+                title: 'Outcome Statement',
+                copy: 'Prediction locked: Blue Team holds the line, Red Team respawns in defeat.',
+              },
+            ].map((item) => (
+              <div key={item.title} className="rounded-xl border border-[var(--matrix-border)]/70 bg-[rgba(6,16,32,0.6)] p-4 text-sm text-[var(--matrix-muted)]">
+                <p className="font-display text-base text-[var(--matrix-text)]">{item.title}</p>
+                <p className="mt-2">{item.copy}</p>
               </div>
             ))}
           </div>
