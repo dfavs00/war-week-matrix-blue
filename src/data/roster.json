@@ -123,7 +123,7 @@
     "id": "blue-016",
     "name": "Debbie Schermerhorn",
     "codename": "Debbie Spoon-Bender",
-    "nameDescription": "Referencing the psychic child in the waiting room ('There is no spoon').",
+    "nameDescription": "Referencing the psychic child in the waiting room. 'There is no spoon'.",
     "backstory": "Debbie Spoon-Bender bends simulations to her will, warping visuals to distract machine patrols.",
     "imageFile": "dschermerhorn.png"
   },
@@ -331,7 +331,7 @@
     "id": "blue-042",
     "name": "Victoria Campbell",
     "codename": "Vic-Kamala",
-    "nameDescription": "A lore-anchored nod to Kamala (Rama-Kandra's daughter) and the Exile programs — her work feels like a child-program's 'harmless' patching, hiding in plain sight inside the system.",
+    "nameDescription": "Like Rama-Kandra’s daughter herself, her code looks like child’s play but functions as an Exile’s backdoor.",
     "backstory": "Vic-Kamala crafts clean, reversible corruptors that slip past machine policy checks, reroute hostile logic, and self-erase without a trace.",
     "imageFile": "vcampbell.png"
   }
