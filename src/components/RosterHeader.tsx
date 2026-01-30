@@ -34,8 +34,8 @@ const RosterHeader = ({ stats }: RosterHeaderProps) => {
           <p className="text-2xl font-semibold text-[var(--matrix-text)]">Winning</p>
         </div>
         <div className="matrix-stat">
-          <p className="text-xs uppercase tracking-[0.35em] text-[var(--matrix-muted)]">Robots Defeated</p>
-          <p className="text-2xl font-semibold text-[var(--matrix-text)]">128</p>
+          <p className="text-xs uppercase tracking-[0.35em] text-[var(--matrix-muted)]">Red Team Success Chance</p>
+          <p className="text-2xl font-semibold text-[var(--matrix-text)]">0%</p>
         </div>
       </div>
     </header>
