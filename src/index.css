@@ -49,6 +49,43 @@ body {
   --matrix-accent: #5bb7ff;
   --matrix-text: #e6f3ff;
   --matrix-muted: #8fb4d6;
+  --matrix-glow: rgba(58, 149, 255, 0.2);
+  --matrix-glow-strong: rgba(58, 149, 255, 0.35);
+  --matrix-glow-avatar: rgba(110, 200, 255, 0.45);
+  --matrix-glow-panel: rgba(80, 165, 255, 0.25);
+  --matrix-grid-color: rgba(80, 160, 255, 0.08);
+  --matrix-rain-start: rgba(105, 200, 255, 0.25);
+  --matrix-rain-mid: rgba(20, 80, 160, 0.05);
+  --matrix-scanline-color: rgba(40, 120, 200, 0.08);
+  --matrix-highlight-color: rgba(110, 200, 255, 0.12);
+  --matrix-stat-bg: rgba(8, 20, 40, 0.65);
+  --matrix-stat-glow: rgba(80, 165, 255, 0.15);
+}
+
+.red-theme {
+  --matrix-bg: #100406;
+  --matrix-panel: rgba(36, 10, 12, 0.85);
+  --matrix-border: rgba(220, 90, 90, 0.4);
+  --matrix-accent: #ff5a5a;
+  --matrix-text: #ffe7e7;
+  --matrix-muted: #f3a0a0;
+  --matrix-glow: rgba(255, 110, 110, 0.25);
+  --matrix-glow-strong: rgba(255, 110, 110, 0.4);
+  --matrix-glow-avatar: rgba(255, 135, 135, 0.5);
+  --matrix-glow-panel: rgba(255, 120, 120, 0.3);
+  --matrix-grid-color: rgba(255, 110, 110, 0.12);
+  --matrix-rain-start: rgba(255, 140, 140, 0.22);
+  --matrix-rain-mid: rgba(140, 20, 30, 0.08);
+  --matrix-scanline-color: rgba(200, 40, 50, 0.1);
+  --matrix-highlight-color: rgba(255, 140, 140, 0.15);
+  --matrix-stat-bg: rgba(36, 10, 14, 0.7);
+  --matrix-stat-glow: rgba(255, 120, 120, 0.25);
+}
+
+.red-theme .matrix-gradient {
+  background: radial-gradient(circle at top left, rgba(170, 36, 44, 0.38), transparent 55%),
+    radial-gradient(circle at 70% 20%, rgba(120, 16, 28, 0.55), transparent 60%),
+    linear-gradient(135deg, rgba(12, 3, 5, 0.9), rgba(6, 2, 3, 0.98));
 }
 
 .matrix-gradient {
@@ -58,8 +95,8 @@ body {
 }
 
 .matrix-grid {
-  background-image: linear-gradient(rgba(80, 160, 255, 0.08) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(80, 160, 255, 0.08) 1px, transparent 1px);
+  background-image: linear-gradient(var(--matrix-grid-color) 1px, transparent 1px),
+    linear-gradient(90deg, var(--matrix-grid-color) 1px, transparent 1px);
   background-size: 90px 90px;
   opacity: 0.4;
 }
@@ -67,8 +104,8 @@ body {
 .matrix-rain {
   background-image: linear-gradient(
     180deg,
-    rgba(105, 200, 255, 0.25) 0%,
-    rgba(20, 80, 160, 0.05) 35%,
+    var(--matrix-rain-start) 0%,
+    var(--matrix-rain-mid) 35%,
     transparent 55%
   );
   animation: matrix-rain 8s linear infinite;
@@ -77,8 +114,8 @@ body {
 .matrix-scanline {
   background: repeating-linear-gradient(
     to bottom,
-    rgba(40, 120, 200, 0.08),
-    rgba(40, 120, 200, 0.08) 1px,
+    var(--matrix-scanline-color),
+    var(--matrix-scanline-color) 1px,
     transparent 1px,
     transparent 4px
   );
@@ -86,15 +123,15 @@ body {
 }
 
 .matrix-highlight {
-  background: linear-gradient(120deg, transparent 0%, rgba(110, 200, 255, 0.12) 50%, transparent 100%);
+  background: linear-gradient(120deg, transparent 0%, var(--matrix-highlight-color) 50%, transparent 100%);
 }
 
 .matrix-stat {
   border: 1px solid var(--matrix-border);
   border-radius: 1rem;
   padding: 1rem 1.25rem;
-  background: rgba(8, 20, 40, 0.65);
-  box-shadow: 0 0 20px rgba(80, 165, 255, 0.15);
+  background: var(--matrix-stat-bg);
+  box-shadow: 0 0 20px var(--matrix-stat-glow);
 }
 
 .matrix-flip {

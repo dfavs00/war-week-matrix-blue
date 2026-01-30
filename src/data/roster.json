@@ -5,7 +5,7 @@
     "codename": "Nebby Rivera",
     "nameDescription": "A play on 'Nebuchadnezzar' (Morpheus' ship) combined with Abby.",
     "backstory": "Dubbed 'Nebby' after she kept the Nebuchadnezzar's blueprints alive in a crashed archive, Abby now pilots the arsenal's long-range comms.",
-    "imageFile": "arivera.png"
+    "imageFile": "blue/arivera.png"
   },
   {
     "id": "blue-002",
@@ -13,7 +13,7 @@
     "codename": "Alec the Architect",
     "nameDescription": "Associating the name Alec with the creator of the Matrix, The Architect.",
     "backstory": "Alec earned the Architect tag by rebuilding the command center's logic tree after a system breach, designing every safeguard from scratch.",
-    "imageFile": "aharing.png"
+    "imageFile": "blue/aharing.png"
   },
   {
     "id": "blue-003",
@@ -21,7 +21,7 @@
     "codename": "Morpheusalex",
     "nameDescription": "Combining the wise leader Morpheus with the Russian name Aleksandr.",
     "backstory": "Morpheusalex brokers calm in the chaos, guiding every Blue Pill mission briefing with Morpheus-level clarity.",
-    "imageFile": "amolchagin.png"
+    "imageFile": "blue/amolchagin.png"
   },
   {
     "id": "blue-004",
@@ -29,7 +29,7 @@
     "codename": "Alvaracle",
     "nameDescription": "Combining Alvaro with The Oracle.",
     "backstory": "Alvaracle predicts intrusion patterns by reading the data-stream like tea leaves, warning the team minutes before a breach.",
-    "imageFile": "agil.png"
+    "imageFile": "blue/agil.png"
   },
   {
     "id": "blue-005",
@@ -37,7 +37,7 @@
     "codename": "Deja Vu Dudla",
     "nameDescription": "Referencing the glitch in the Matrix (deja vu) with alliteration.",
     "backstory": "Deja Vu Dudla spots anomalies before anyone else, flagging repeating glitches that signal a system rewrite.",
-    "imageFile": "bdudla.png"
+    "imageFile": "blue/bdudla.png"
   },
   {
     "id": "blue-006",
@@ -45,7 +45,7 @@
     "codename": "Blue Pill Bob",
     "nameDescription": "Alliteration referencing the choice to remain in the simulation.",
     "backstory": "Blue Pill Bob specializes in maintaining stable simulations, keeping Blue Team cover identities intact under pressure.",
-    "imageFile": "bstrubel.png"
+    "imageFile": "blue/bstrubel.png"
   },
   {
     "id": "blue-007",
@@ -53,7 +53,7 @@
     "codename": "Badgett Time",
     "nameDescription": "A play on the famous 'Bullet Time' visual effect.",
     "backstory": "Badgett Time coordinates slow-mo extraction windows, timing every operation so the team slips past sentinels unseen.",
-    "imageFile": "bbadgett.png"
+    "imageFile": "blue/bbadgett.png"
   },
   {
     "id": "blue-008",
@@ -61,7 +61,15 @@
     "codename": "The Merothiviergian",
     "nameDescription": "A mashup of his complex last name with the sophisticated program, The Merovingian.",
     "backstory": "The Merothiviergian runs elite negotiation protocols, trading favors across the grid with the smooth precision of a high-end program.",
-    "imageFile": "bthivierge.png"
+    "imageFile": "blue/bthivierge.png"
+  },
+  {
+    "id": "blue-048",
+    "name": "Bucky The Horse",
+    "codename": "Bucky Byte-Horse",
+    "nameDescription": "Referencing the horse program seen in the 'Construct' and the 'Deja Vu' scenes.",
+    "backstory": "Bucky Byte-Horse is a legacy program within the Matrix, used as a stress-test for physics engines to ensure that even animal movements feel authentic to the inhabitants.",
+    "imageFile": "blue/bucky.png"
   },
   {
     "id": "blue-009",
@@ -69,7 +77,7 @@
     "codename": "Cam-struct",
     "nameDescription": "Combining Cameron with 'The Construct' (the loading program).",
     "backstory": "Cam-struct curates the Construct loadouts, tailoring each training sim to the mission at hand.",
-    "imageFile": "clynch.png"
+    "imageFile": "blue/clynch.png"
   },
   {
     "id": "blue-010",
@@ -77,7 +85,7 @@
     "codename": "Casey White Rabbit",
     "nameDescription": "Playing off his last name 'Snow' (white) and the prompt to 'Follow the White Rabbit'.",
     "backstory": "Casey White Rabbit plants the breadcrumbs, dropping digital markers that guide crews back to safety.",
-    "imageFile": "csnow.png"
+    "imageFile": "blue/csnow.png"
   },
   {
     "id": "blue-011",
@@ -85,7 +93,7 @@
     "codename": "Cyphberg",
     "nameDescription": "His last name is Nyberg mixed with Cypher the character.",
     "backstory": "Cyphberg breaks machine encryption in record time, intercepting threats before they can turn.",
-    "imageFile": "cnyberg.png"
+    "imageFile": "blue/cnyberg.png"
   },
   {
     "id": "blue-012",
@@ -93,7 +101,7 @@
     "codename": "Chris P. Program",
     "nameDescription": "Making his name sound like a specific piece of software code.",
     "backstory": "Chris P. Program is the code surgeon who cleans corrupted modules and restores Blue Team systems on the fly.",
-    "imageFile": "cpence.png"
+    "imageFile": "blue/cpence.png"
   },
   {
     "id": "blue-013",
@@ -101,7 +109,7 @@
     "codename": "Dan Nebuchad-bedian",
     "nameDescription": "Rhyming his last name with the hovercraft Nebuchadnezzar.",
     "backstory": "Dan Nebuchad-bedian oversees the hovercraft dock, ensuring every launch is fueled and flight-ready.",
-    "imageFile": "dbedian.png"
+    "imageFile": "blue/dbedian.png"
   },
   {
     "id": "blue-014",
@@ -109,7 +117,7 @@
     "codename": "Trinidani",
     "nameDescription": "Based off of Trinity mixed with Dani.",
     "backstory": "Trinidani is a precision runner who can ghost through any firewall and land clean in extraction zones.",
-    "imageFile": "dmilliken.png"
+    "imageFile": "blue/dmilliken.png"
   },
   {
     "id": "blue-015",
@@ -117,7 +125,7 @@
     "codename": "Darrin the Operator",
     "nameDescription": "Assigning him the role of the Operator (like Tank or Link) who dials people in.",
     "backstory": "Darrin the Operator keeps the hardlines open, routing every call with razor-focused calm.",
-    "imageFile": "djahnel.png"
+    "imageFile": "blue/djahnel.png"
   },
   {
     "id": "blue-016",
@@ -125,7 +133,7 @@
     "codename": "Debbie Spoon-Bender",
     "nameDescription": "Referencing the psychic child in the waiting room. 'There is no spoon'.",
     "backstory": "Debbie Spoon-Bender bends simulations to her will, warping visuals to distract machine patrols.",
-    "imageFile": "dschermerhorn.png"
+    "imageFile": "blue/dschermerhorn.png"
   },
   {
     "id": "blue-017",
@@ -133,7 +141,7 @@
     "codename": "Dom-inion",
     "nameDescription": "A play on 'Dom' and 'Dominion' (control over the Matrix).",
     "backstory": "Dom-inion seizes control of compromised systems, asserting Blue Team authority over hostile code.",
-    "imageFile": "dfavata.png"
+    "imageFile": "blue/dfavata.png"
   },
   {
     "id": "blue-018",
@@ -141,7 +149,23 @@
     "codename": "Niobeva",
     "nameDescription": "Mixing Eva with Captain Niobe.",
     "backstory": "Niobeva commands stealth convoys through hostile tunnels, never losing a crew in transit.",
-    "imageFile": "etrimboli.png"
+    "imageFile": "blue/etrimboli.png"
+  },
+  {
+    "id": "blue-043",
+    "name": "Gabe Colon",
+    "codename": "Gabe Code-lon",
+    "nameDescription": "A play on his last name and the punctuation used to define blocks of code in the Matrix source.",
+    "backstory": "Gabe Code-lon is the architect of sub-routines, ensuring that the background logic of the simulation never skips a beat during high-traffic events.",
+    "imageFile": "blue/gcolon.png"
+  },
+  {
+    "id": "blue-047",
+    "name": "Glenn Easton",
+    "codename": "Glenn Grid-Easton",
+    "nameDescription": "Mapping his name to the directional sectors of the Matrix grid.",
+    "backstory": "Glenn Grid-Easton is the primary navigator for the Blue Team, mapping out the safest sectors of the city for covert meetings and code exchanges.",
+    "imageFile": "blue/geaston.png"
   },
   {
     "id": "blue-019",
@@ -149,7 +173,7 @@
     "codename": "Macbethrix",
     "nameDescription": "Blending 'Macbeth' with 'Matrix' for a Shakespeare-meets-digital vibe.",
     "backstory": "Macbethrix orchestrates high-stakes heists inside the simulation, scripting betrayals and exits worthy of the stage.",
-    "imageFile": "gmacbeth.png"
+    "imageFile": "blue/gmacbeth.png"
   },
   {
     "id": "blue-020",
@@ -157,7 +181,7 @@
     "codename": "Greg Takeover",
     "nameDescription": "Like an Agent taking over a body in the Matrix.",
     "backstory": "Greg Takeover is the counter-agent specialist, hijacking hostile shells before they strike.",
-    "imageFile": "gwestover.png"
+    "imageFile": "blue/gwestover.png"
   },
   {
     "id": "blue-021",
@@ -165,7 +189,7 @@
     "codename": "Harsha Zion-dana",
     "nameDescription": "Mixing his last name with Zion, the last human city.",
     "backstory": "Harsha Zion-dana manages the city's defense lattice, keeping Zion secure through every blackout.",
-    "imageFile": "hbindana.png"
+    "imageFile": "blue/hbindana.png"
   },
   {
     "id": "blue-022",
@@ -173,7 +197,7 @@
     "codename": "Ian Bullet-hard",
     "nameDescription": "Punning his last name with 'Bullet' from the action scenes.",
     "backstory": "Ian Bullet-hard calibrates the ballistic countermeasures that keep sentinels at bay.",
-    "imageFile": "iballard.png"
+    "imageFile": "blue/iballard.png"
   },
   {
     "id": "blue-023",
@@ -181,7 +205,7 @@
     "codename": "Jake Kung Fu",
     "nameDescription": "Because 'I know Kung Fu' is a famous line involving hand-to-hand combat.",
     "backstory": "Jake Kung Fu trains operatives in close-quarters combat inside the Construct's combat loops.",
-    "imageFile": "jhand.png"
+    "imageFile": "blue/jhand.png"
   },
   {
     "id": "blue-024",
@@ -189,7 +213,7 @@
     "codename": "Councillor Heffernan",
     "nameDescription": "Giving him a title similar to Councillor Hamann of Zion.",
     "backstory": "Councillor Heffernan keeps the city aligned, coordinating resources to keep the arsenal operational.",
-    "imageFile": "jheffernan.png"
+    "imageFile": "blue/jheffernan.png"
   },
   {
     "id": "blue-025",
@@ -197,7 +221,7 @@
     "codename": "Janelle The One",
     "nameDescription": "Rhyming 'Olsen' lightly with 'The One' (if said quickly), giving her Neo's title.",
     "backstory": "Janelle The One is the morale spark, stepping into high-risk missions when the team needs a legend.",
-    "imageFile": "jolsen.png"
+    "imageFile": "blue/jolsen.png"
   },
   {
     "id": "blue-026",
@@ -205,7 +229,15 @@
     "codename": "Jesse EMP",
     "nameDescription": "Giving him the power of the Electro-Magnetic Pulse weapon.",
     "backstory": "Jesse EMP controls the pulse cannon schedule, delivering clean blackouts to cover Blue Team escapes.",
-    "imageFile": "jlucier.png"
+    "imageFile": "blue/jlucier.png"
+  },
+  {
+    "id": "blue-046",
+    "name": "John Healey",
+    "codename": "John Hard-link Healey",
+    "nameDescription": "Referencing the 'hard-links' required to stay tethered to the Matrix.",
+    "backstory": "John Hard-link Healey ensures that the connection between a user's consciousness and their avatar is unbreakable, preventing accidental 'waking' during system spikes.",
+    "imageFile": "blue/jhealey.png"
   },
   {
     "id": "blue-027",
@@ -213,7 +245,7 @@
     "codename": "John Squiggins",
     "nameDescription": "Mixing Higgins with 'Squiddies' (the nickname for Sentinels).",
     "backstory": "John Squiggins tracks sentinel swarms, tagging every squiddy in the sector before it moves.",
-    "imageFile": "jhiggins.png"
+    "imageFile": "blue/jhiggins.png"
   },
   {
     "id": "blue-028",
@@ -221,7 +253,7 @@
     "codename": "Jon Keymaker",
     "nameDescription": "Assigning him the role of the Keymaker program.",
     "backstory": "Jon Keymaker safeguards the vault of access keys, unlocking hidden doors when Blue Team needs a clean exit.",
-    "imageFile": "jkeller.png"
+    "imageFile": "blue/jkeller.png"
   },
   {
     "id": "blue-029",
@@ -229,7 +261,7 @@
     "codename": "Jory Hardline",
     "nameDescription": "Referencing the 'Hardline' needed to exit the Matrix.",
     "backstory": "Jory Hardline maintains the escape lines, ensuring every crew can jack out without delay.",
-    "imageFile": "jhutchins.png"
+    "imageFile": "blue/jhutchins.png"
   },
   {
     "id": "blue-030",
@@ -237,7 +269,7 @@
     "codename": "Joshua Blue-Stone",
     "nameDescription": "Playing off his last name 'Stone' with the Blue Pill concept.",
     "backstory": "Joshua Blue-Stone leads recruitment, offering the blue-pill choice to new allies under pressure.",
-    "imageFile": "jcantor-stone.png"
+    "imageFile": "blue/jcantor-stone.png"
   },
   {
     "id": "blue-031",
@@ -245,7 +277,7 @@
     "codename": "Copper-Top Kari",
     "nameDescription": "Referencing Switch's insult to Neo ('copper-top') regarding batteries.",
     "backstory": "Copper-Top Kari runs the power grid, siphoning machine energy to keep Zion alive.",
-    "imageFile": "kskinner.png"
+    "imageFile": "blue/kskinner.png"
   },
   {
     "id": "blue-032",
@@ -253,7 +285,7 @@
     "codename": "Marc Matsen-tinal",
     "nameDescription": "Blending his last name with 'Sentinel'.",
     "backstory": "Marc Matsen-tinal studies sentinel behavior, issuing counter-strategies that outsmart the swarm.",
-    "imageFile": "mmatsen.png"
+    "imageFile": "blue/mmatsen.png"
   },
   {
     "id": "blue-033",
@@ -261,7 +293,7 @@
     "codename": "Mr. Anderson",
     "nameDescription": "He literally has Neo's Matrix last name. It had to be done.",
     "backstory": "Mr. Anderson maintains the dossier on rogue Agents, always one step ahead of their next move.",
-    "imageFile": "manderson.png"
+    "imageFile": "blue/manderson.png"
   },
   {
     "id": "blue-034",
@@ -269,7 +301,7 @@
     "codename": "Seraph Shirk",
     "nameDescription": "Using alliteration to link him to the Oracle's guardian, Seraph.",
     "backstory": "Seraph Shirk guards the Oracle channel, screening threats before they reach the core.",
-    "imageFile": "mshirk.png"
+    "imageFile": "blue/mshirk.png"
   },
   {
     "id": "blue-035",
@@ -277,7 +309,7 @@
     "codename": "The Kid",
     "nameDescription": "Referencing the character 'The Kid' who idolizes Neo, based on the last name 'Young'.",
     "backstory": "The Kid keeps his eyes on the legends, documenting every mission to fuel the next wave of rebels.",
-    "imageFile": "myoung.png"
+    "imageFile": "blue/myoung.png"
   },
   {
     "id": "blue-036",
@@ -285,7 +317,15 @@
     "codename": "Mike Real World",
     "nameDescription": "Contrast to the Matrix; the 'Desert of the Real'.",
     "backstory": "Mike Real World oversees surface recon, mapping the desert wasteland for safe rebel routes.",
-    "imageFile": "mhamilton.png"
+    "imageFile": "blue/mhamilton.png"
+  },
+  {
+    "id": "blue-045",
+    "name": "Morgan Canion",
+    "codename": "Morgan Mod-Canion",
+    "nameDescription": "Punning 'Canion' with 'Modding' the environment.",
+    "backstory": "Morgan Mod-Canion is a master of environmental assets, responsible for rendering the massive, sprawling landscapes of the simulation's outer edges.",
+    "imageFile": "blue/mcanion.png"
   },
   {
     "id": "blue-037",
@@ -293,7 +333,15 @@
     "codename": "Agent Brown",
     "nameDescription": "There is literally an Agent Brown in the first movie (one of the three original agents).",
     "backstory": "Agent Brown leads counter-agent drills, teaching the team how to break the machine's grip.",
-    "imageFile": "nbrown.png"
+    "imageFile": "blue/nbrown.png"
+  },
+  {
+    "id": "blue-044",
+    "name": "Nick Sprague",
+    "codename": "Nick Signal-Sprague",
+    "nameDescription": "Combining his name with the concept of a spreading digital signal.",
+    "backstory": "Nick Signal-Sprague manages the distribution of the 'comfort' signal, the frequency that keeps Blue Pill inhabitants blissfully unaware of the machine world.",
+    "imageFile": "blue/nsprague.png"
   },
   {
     "id": "blue-038",
@@ -301,7 +349,7 @@
     "codename": "Dodge-This Hodges",
     "nameDescription": "Rhyming his name with Trinity's famous line 'Dodge this'.",
     "backstory": "Dodge-This Hodges handles evasive maneuvers, turning close calls into clean escapes.",
-    "imageFile": "phodges.png"
+    "imageFile": "blue/phodges.png"
   },
   {
     "id": "blue-039",
@@ -309,7 +357,7 @@
     "codename": "Ryan Green Code",
     "nameDescription": "His last name is perfect for the falling green digital rain.",
     "backstory": "Ryan Green Code deciphers the raining glyphs, pulling hostile intent from the Matrix feed.",
-    "imageFile": "rgreenman.png"
+    "imageFile": "blue/rgreenman.png"
   },
   {
     "id": "blue-040",
@@ -317,7 +365,7 @@
     "codename": "Sean Mouse-en",
     "nameDescription": "Mixing his name with the character Mouse.",
     "backstory": "Sean Mouse-en designs lightweight training sims, sharp and nimble like the hacker who inspired his name.",
-    "imageFile": "smullen.png"
+    "imageFile": "blue/smullen.png"
   },
   {
     "id": "blue-041",
@@ -325,7 +373,7 @@
     "codename": "Steve Neo-yen",
     "nameDescription": "A phonetic play on 'Neo' and his last name.",
     "backstory": "Steve Neo-yen leads breakthrough drills, pushing recruits to believe the code can bend.",
-    "imageFile": "snguyen.png"
+    "imageFile": "blue/snguyen.png"
   },
   {
     "id": "blue-042",
@@ -333,6 +381,6 @@
     "codename": "Vic-Kamala",
     "nameDescription": "Like Rama-Kandra’s daughter herself, her code looks like child’s play but functions as an Exile’s backdoor.",
     "backstory": "Vic-Kamala crafts clean, reversible corruptors that slip past machine policy checks, reroute hostile logic, and self-erase without a trace.",
-    "imageFile": "vcampbell.png"
+    "imageFile": "blue/vcampbell.png"
   }
 ]

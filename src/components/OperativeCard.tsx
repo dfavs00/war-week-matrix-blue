@@ -12,7 +12,7 @@ const OperativeCard = ({ profile }: OperativeCardProps) => {
   return (
     <article className="matrix-flip group relative h-full rounded-2xl" tabIndex={0}>
       <div className="matrix-flip-inner relative h-full w-full rounded-2xl">
-        <div className="matrix-flip-face relative flex h-full flex-col overflow-hidden rounded-2xl border border-[var(--matrix-border)] bg-[var(--matrix-panel)]/70 p-4 shadow-[0_0_20px_rgba(58,149,255,0.2)] transition duration-300 group-hover:-translate-y-1 group-hover:border-[var(--matrix-accent)] md:p-5">
+        <div className="matrix-flip-face relative flex h-full flex-col overflow-hidden rounded-2xl border border-[var(--matrix-border)] bg-[var(--matrix-panel)]/70 p-4 shadow-[0_0_20px_var(--matrix-glow)] transition duration-300 group-hover:-translate-y-1 group-hover:border-[var(--matrix-accent)] md:p-5">
           <div className="absolute inset-0 opacity-0 transition duration-300 group-hover:opacity-100">
             <div className="absolute inset-0 matrix-highlight" />
           </div>
@@ -26,7 +26,7 @@ const OperativeCard = ({ profile }: OperativeCardProps) => {
             <div className="absolute inset-0 bg-gradient-to-tr from-[rgba(5,10,20,0.85)] via-transparent to-transparent" />
           </div>
           <div className="relative flex items-center gap-4">
-            <div className="relative h-16 w-16 shrink-0 overflow-hidden rounded-full border border-[var(--matrix-accent)] shadow-[0_0_15px_rgba(110,200,255,0.45)] max-md:hidden">
+            <div className="relative h-16 w-16 shrink-0 overflow-hidden rounded-full border border-[var(--matrix-accent)] shadow-[0_0_15px_var(--matrix-glow-avatar)] max-md:hidden">
               <img
                 src={getOperativeImageUrl(profile.imageFile)}
                 alt={`${profile.name} portrait`}
@@ -45,7 +45,7 @@ const OperativeCard = ({ profile }: OperativeCardProps) => {
             <p className="mt-2 text-sm leading-relaxed text-[var(--matrix-text)]/90">{profile.backstory}</p>
           </div>
         </div>
-        <div className="matrix-flip-face matrix-flip-back absolute inset-0 flex h-full flex-col overflow-hidden rounded-2xl border border-[var(--matrix-border)] bg-[var(--matrix-panel)]/90 shadow-[0_0_30px_rgba(58,149,255,0.35)]">
+        <div className="matrix-flip-face matrix-flip-back absolute inset-0 flex h-full flex-col overflow-hidden rounded-2xl border border-[var(--matrix-border)] bg-[var(--matrix-panel)]/90 shadow-[0_0_30px_var(--matrix-glow-strong)]">
           <div className="flex h-full flex-col md:flex-row">
             <div className="relative h-56 w-full md:h-full md:w-1/2">
               <img

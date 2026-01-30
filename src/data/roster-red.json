@@ -1,0 +1,386 @@
+[
+  {
+    "id": "red-001",
+    "name": "Ashley Schuliger",
+    "codename": "Schuliger-Shell",
+    "nameDescription": "A play on her last name and the concept of 'shell code' used to break into secure Matrix nodes.",
+    "backstory": "Schuliger-Shell is the Red Team's primary infiltrator, writing the scripts that crack the outer shell of machine outposts before the team makes their move.",
+    "imageFile": "red/aschuliger.png"
+  },
+  {
+    "id": "red-002",
+    "name": "Michael Prete",
+    "codename": "Prete-Code",
+    "nameDescription": "Phonetic play on 'pre-code', the raw data before it’s compiled into the simulation.",
+    "backstory": "Prete-Code analyzes the raw stream of the Matrix, spotting vulnerabilities in the environment's physics before they even render.",
+    "imageFile": "red/mprete.png"
+  },
+  {
+    "id": "red-003",
+    "name": "Sam Schantz",
+    "codename": "Sam-Zion",
+    "nameDescription": "Linking his name directly to the last human city.",
+    "backstory": "A true believer in the cause, Sam-Zion coordinates the logistics between the hovercraft and the dock workers in the city's core.",
+    "imageFile": "red/sschantz.png"
+  },
+  {
+    "id": "red-004",
+    "name": "Ryan Shendler",
+    "codename": "Ryan Red-Line",
+    "nameDescription": "Referencing the 'Red Line' of a hovercraft's engine and the color of the team.",
+    "backstory": "As the lead engineer, Ryan Red-Line pushes the ship's engines to the absolute limit to outrun Sentinel swarms in the tunnels.",
+    "imageFile": "red/rshendler.png"
+  },
+  {
+    "id": "red-005",
+    "name": "Adam Wilson-Hwang",
+    "codename": "Adam Agent-Buster",
+    "nameDescription": "A title given to those brave enough to engage upgraded programs.",
+    "backstory": "Adam specializes in distraction tactics, using high-impact maneuvers to draw Agent attention away from the team's exit strategy.",
+    "imageFile": "red/awilson-hwang.png"
+  },
+  {
+    "id": "red-006",
+    "name": "Albert Hernandez",
+    "codename": "Al-Binary",
+    "nameDescription": "A play on 'Albert' and the 1s and 0s of machine language.",
+    "backstory": "Al-Binary speaks the language of the machines, often tricking automated gates into thinking the Red Team's ship is just a maintenance drone.",
+    "imageFile": "red/ahernandez.png"
+  },
+  {
+    "id": "red-007",
+    "name": "Alex Kelly",
+    "codename": "Alex Keymaker",
+    "nameDescription": "Direct reference to the program that can open any door in the Matrix.",
+    "backstory": "If there is a locked file or a hidden corridor, Alex Keymaker finds the shortcut. He holds the digital skeleton keys to the city.",
+    "imageFile": "red/akelly.png"
+  },
+  {
+    "id": "red-008",
+    "name": "Alex Nikolis",
+    "codename": "Alex Neo-lis",
+    "nameDescription": "Combining his name with Neo, the protagonist.",
+    "backstory": "Alex Neo-lis is known for his incredible reflexes during combat training, often moving faster than the training programs can track.",
+    "imageFile": "red/anikolis.png"
+  },
+  {
+    "id": "red-009",
+    "name": "Anthony Conway",
+    "codename": "Anthony Convoy",
+    "nameDescription": "A play on his last name and the 'convoy' missions led by Captain Niobe.",
+    "backstory": "The master of the transport, Anthony Convoy ensures that all 'Red Pill' recruits are safely ferried from their extraction point to the ship.",
+    "imageFile": "red/aconway.png"
+  },
+  {
+    "id": "red-010",
+    "name": "Austin Gage",
+    "codename": "Austin Gage-Way",
+    "nameDescription": "Punning 'Gage' with 'Gateway', the entry point into the system.",
+    "backstory": "Austin monitors the gateways between the Real World and the Matrix, ensuring no data leaks follow the team back to the ship.",
+    "imageFile": "red/agage.png"
+  },
+  {
+    "id": "red-011",
+    "name": "Awad Khawaja",
+    "codename": "Code-waja",
+    "nameDescription": "Mixing his last name with the foundation of the Matrix: Code.",
+    "backstory": "Code-waja writes the custom combat subroutines that give the Red Team an edge in hand-to-hand combat against system enforcers.",
+    "imageFile": "red/akhawaja.png"
+  },
+  {
+    "id": "red-012",
+    "name": "Ben Sadick",
+    "codename": "Ben Static",
+    "nameDescription": "Rhyming his last name with the 'Static' of a disrupted signal.",
+    "backstory": "Ben Static is a master of electronic warfare, deploying signal jammers that turn Sentinel sensors into useless noise.",
+    "imageFile": "red/bsadick.png"
+  },
+  {
+    "id": "red-013",
+    "name": "Brian France",
+    "codename": "Brian Free-Mind",
+    "nameDescription": "Referencing Morpheus’s goal: 'Free your mind.'",
+    "backstory": "Brian leads the Red Team's philosophy, helping new recruits break through the mental barriers of the simulation's rules.",
+    "imageFile": "red/bfrance.png"
+  },
+  {
+    "id": "red-014",
+    "name": "Bryan Sambrook",
+    "codename": "Bryan Source-brook",
+    "nameDescription": "Playing on his last name and 'The Source', the machine mainframe.",
+    "backstory": "Bryan maps the deep architecture of the Source, looking for the one path that could lead to a system-wide shutdown.",
+    "imageFile": "red/bsambrook.png"
+  },
+  {
+    "id": "red-015",
+    "name": "Chara Meidani",
+    "codename": "Chara-cter Code",
+    "nameDescription": "A pun on 'Character' and her first name.",
+    "backstory": "Chara-cter Code designs the 'digital self' avatars for the team, making sure they look and move naturally enough to avoid detection.",
+    "imageFile": "red/cmeidani.png"
+  },
+  {
+    "id": "red-016",
+    "name": "Charles Clarke",
+    "codename": "Charles Clock-Speed",
+    "nameDescription": "Alliteration referencing the speed of a processor.",
+    "backstory": "Charles Clock-Speed is the team's overclocking specialist, squeezing every bit of performance out of the ship's ancient hardware.",
+    "imageFile": "red/cclarke.png"
+  },
+  {
+    "id": "red-017",
+    "name": "Chelsea Merrill",
+    "codename": "Chelsea Merovingian",
+    "nameDescription": "Referencing the powerful info-broker program.",
+    "backstory": "Chelsea handles the Red Team's 'gray market' connections, trading data with exiles to get the team the supplies they need.",
+    "imageFile": "red/cmerrill.png"
+  },
+  {
+    "id": "red-018",
+    "name": "Colin Walsh",
+    "codename": "Colin Fire-Walsh",
+    "nameDescription": "Punning his last name with 'Firewall'.",
+    "backstory": "The ultimate defensive specialist, Colin Fire-Walsh builds layers of protection around the ship's signal during high-risk hacks.",
+    "imageFile": "red/cwalsh.png"
+  },
+  {
+    "id": "red-019",
+    "name": "Dan Byrnes",
+    "codename": "Dan Red-Burn",
+    "nameDescription": "Combining his last name with the 'Red' theme of the team.",
+    "backstory": "Dan Red-Burn is the heavy weapons expert, responsible for the 'burn'—the high-energy blasts needed to disable machine hardware.",
+    "imageFile": "red/dbyrnes.png"
+  },
+  {
+    "id": "red-020",
+    "name": "Dave Stevens",
+    "codename": "Data Dave",
+    "nameDescription": "Classic alliteration for a tech-heavy role.",
+    "backstory": "Data Dave is the archivist of the Red Team, preserving human history recovered from corrupted files within the Matrix.",
+    "imageFile": "red/dstevens.png"
+  },
+  {
+    "id": "red-021",
+    "name": "Dillon Power",
+    "codename": "Dillon EMP",
+    "nameDescription": "Using his last name as the focus of the hovercraft's only defense.",
+    "backstory": "Dillon EMP has the steadiest hand on the ship, responsible for timing the electromagnetic pulse that can save or strand a crew.",
+    "imageFile": "red/dpower.png"
+  },
+  {
+    "id": "red-022",
+    "name": "Emily Smith",
+    "codename": "Emily Anti-Smith",
+    "nameDescription": "Playing off the name of the main antagonist, Agent Smith.",
+    "backstory": "Emily specializes in 'Anti-Smith' protocols, developing code that prevents rogue programs from copying themselves onto Red Team systems.",
+    "imageFile": "red/esmith.png"
+  },
+  {
+    "id": "red-023",
+    "name": "Frank Nardone",
+    "codename": "Frank Firewall",
+    "nameDescription": "Simple, strong alliteration for a protector.",
+    "backstory": "Frank Firewall stands as the final line of defense, manually blocking incoming machine hacks during Zion's darkest hours.",
+    "imageFile": "red/fnardone.png"
+  },
+  {
+    "id": "red-024",
+    "name": "Fred De Koker",
+    "codename": "Fred De-coder",
+    "nameDescription": "A perfect phonetic pun on his last name.",
+    "backstory": "Fred De-coder can translate a stream of falling green code into a tactical map in seconds, identifying exits before the Operator even sees them.",
+    "imageFile": "red/fdekoker.png"
+  },
+  {
+    "id": "red-025",
+    "name": "Jakub Synowiec",
+    "codename": "Jack-ub In",
+    "nameDescription": "Punning 'Jacking In' (connecting to the Matrix) with his name.",
+    "backstory": "Jakub is the first one in and the last one out, handling the dangerous neural link calibrations for the entire squad.",
+    "imageFile": "red/jsynowiec.png"
+  },
+  {
+    "id": "red-026",
+    "name": "James Murphy",
+    "codename": "James Morph-y",
+    "nameDescription": "A playful nod to Morpheus.",
+    "backstory": "James Morph-y is a shapeshifter of sorts, specializing in 'glitching' his avatar to look like different NPCs to stay hidden in the Matrix.",
+    "imageFile": "red/jmurphy.png"
+  },
+  {
+    "id": "red-027",
+    "name": "James Novak",
+    "codename": "James Nova-code",
+    "nameDescription": "A play on 'Nova' (bright star) and 'Code'.",
+    "backstory": "James Nova-code creates 'flash' programs—intense bursts of data that blind Agent sensors for a few precious seconds.",
+    "imageFile": "red/jnovak.png"
+  },
+  {
+    "id": "red-028",
+    "name": "Jessie Zweigenthal",
+    "codename": "Jessie Zion-thal",
+    "nameDescription": "Blending her name with the human city.",
+    "backstory": "Jessie Zion-thal is an expert in the city’s plumbing and ventilation systems, using that knowledge to navigate the ship through the maze of Zion.",
+    "imageFile": "red/jzweigenthal.png"
+  },
+  {
+    "id": "red-029",
+    "name": "Joe The Alien",
+    "codename": "Joe The Exile",
+    "nameDescription": "Referencing the programs that live outside the Matrix's control.",
+    "backstory": "Joe The Exile is an honorary human who knows the 'old code' better than anyone, helping the Red Team find ancient backdoors.",
+    "imageFile": "red/jthealien.png"
+  },
+  {
+    "id": "red-030",
+    "name": "Joshua Burt",
+    "codename": "Joshua Bit-Burst",
+    "nameDescription": "Punning his last name with a 'Burst' of data bits.",
+    "backstory": "Joshua Bit-Burst handles high-speed data transfers, ensuring that heavy combat programs are loaded into the crew's brains in an instant.",
+    "imageFile": "red/jburt.png"
+  },
+  {
+    "id": "red-031",
+    "name": "Joshua Jameson",
+    "codename": "Joshua Jammer",
+    "nameDescription": "Alliteration for a role centered on jamming signals.",
+    "backstory": "The ghost of the radio waves, Joshua Jammer makes the Red Team's ship invisible to machine long-range scans.",
+    "imageFile": "red/jjameson.png"
+  },
+  {
+    "id": "red-032",
+    "name": "Laura jahnel",
+    "codename": "Laura Hard-channel",
+    "nameDescription": "A play on her last name and the 'Hardline' needed for extraction.",
+    "backstory": "Laura Hard-channel is the extraction specialist; she can find a working telephone line in the middle of a machine-controlled wasteland.",
+    "imageFile": "red/ljahnel.png"
+  },
+  {
+    "id": "red-033",
+    "name": "Linda Martin",
+    "codename": "Linda Matrix",
+    "nameDescription": "Simple alliteration linking her to the world they are fighting in.",
+    "backstory": "Linda Matrix studies the psychology of the simulation, predicting how the 'Blue Pills' will react during a Red Team intervention.",
+    "imageFile": "red/lmartin.png"
+  },
+  {
+    "id": "red-034",
+    "name": "Luke Prescott",
+    "codename": "Luke Protocol",
+    "nameDescription": "Alliteration for a role focused on the rules of the system.",
+    "backstory": "Luke Protocol is the stickler for safety; he ensures every dive into the Matrix follows strict safety measures to avoid brain-lock.",
+    "imageFile": "red/lprescott.png"
+  },
+  {
+    "id": "red-035",
+    "name": "Matt Bessler",
+    "codename": "Matt Red-Vessel",
+    "nameDescription": "Rhyming his last name with 'Vessel' (the ship) and adding the team color.",
+    "backstory": "Matt Red-Vessel is the lead hull technician, patching the ship's armor with scrap metal after intense battles with Sentinels.",
+    "imageFile": "red/mbessler.png"
+  },
+  {
+    "id": "red-036",
+    "name": "Millie Elliott",
+    "codename": "Millie EMP-iott",
+    "nameDescription": "Punning her last name with the ship's main weapon.",
+    "backstory": "Millie EMP-iott calibrates the ship's defensive pulse, ensuring it only hits the machines and doesn't fry the team's own hardware.",
+    "imageFile": "red/melliott.png"
+  },
+  {
+    "id": "red-037",
+    "name": "Paige Snyder",
+    "codename": "Paige Snyder-Cypher",
+    "nameDescription": "Combining her name with 'Cypher' (the code-reader/traitor character, but for good!).",
+    "backstory": "Paige Snyder-Cypher is the team's best code-cracker, seeing through machine encryption like it was made of glass.",
+    "imageFile": "red/psnyder.png"
+  },
+  {
+    "id": "red-038",
+    "name": "Paul Carnivale",
+    "codename": "Paul Pilot",
+    "nameDescription": "Simple and direct alliteration.",
+    "backstory": "Paul Pilot is a legend in the tunnels, known for 'threading the needle' through crumbling infrastructure at top speed.",
+    "imageFile": "red/pcarnivale.png"
+  },
+  {
+    "id": "red-039",
+    "name": "Paul Macfarlane",
+    "codename": "Paul Mainfarlane",
+    "nameDescription": "Punning 'Mainframe' with his last name.",
+    "backstory": "Paul Mainfarlane is the hardware guru, maintaining the core computers that keep the Red Team's minds connected to the Matrix.",
+    "imageFile": "red/pmacfarlane.png"
+  },
+  {
+    "id": "red-040",
+    "name": "Sam Colebourn",
+    "codename": "Sam Source-bourn",
+    "nameDescription": "Punning his last name with 'The Source'.",
+    "backstory": "Sam Source-bourn was one of the first humans born in the Real World to successfully hack back into the Source's root directory.",
+    "imageFile": "red/scolebourn.png"
+  },
+  {
+    "id": "red-041",
+    "name": "Scott Shipley",
+    "codename": "Scott Ship-Captain",
+    "nameDescription": "A play on his last name and his leadership role.",
+    "backstory": "Scott Ship-Captain commands the Red Team's hovercraft with a steady hand, always keeping the crew's morale high.",
+    "imageFile": "red/sshipley.png"
+  },
+  {
+    "id": "red-042",
+    "name": "Sean Warner",
+    "codename": "Sean Sentinel-Warning",
+    "nameDescription": "Linking his name to the early warning system against machines.",
+    "backstory": "Sean Sentinel-Warning is the lookout, spending hours watching the long-range scanners for the slightest ripple in the air.",
+    "imageFile": "red/swarner.png"
+  },
+  {
+    "id": "red-043",
+    "name": "Steven Zgaljic",
+    "codename": "Steven Z-Glitch",
+    "nameDescription": "A phonetic play on the start of his last name and 'Glitch'.",
+    "backstory": "Steven Z-Glitch uses intentional system errors to teleport short distances within the Matrix, confusing his enemies.",
+    "imageFile": "red/szgaljic.png"
+  },
+  {
+    "id": "red-044",
+    "name": "Sydney Murauskas",
+    "codename": "Sydney Signal",
+    "nameDescription": "Alliteration for the one who keeps the broadcast alive.",
+    "backstory": "Sydney Signal is responsible for finding 'pirate' frequencies to broadcast the truth to the people still inside the Matrix.",
+    "imageFile": "red/smurauskas.png"
+  },
+  {
+    "id": "red-045",
+    "name": "Thomas O'Neill",
+    "codename": "Thomas The One",
+    "nameDescription": "Thomas Anderson (Neo) combined with his name.",
+    "backstory": "With a name like that, Thomas The One was destined for the Red Team. He is the squad's most versatile operative.",
+    "imageFile": "red/toneill.png"
+  },
+  {
+    "id": "red-046",
+    "name": "Tommy Kneeland",
+    "codename": "Tommy Free-fall",
+    "nameDescription": "Referencing the 'Leap of Faith' and landing on your knees.",
+    "backstory": "Tommy Free-fall is the Red Team's stunt specialist, always taking the most dangerous jumps to get to the objective.",
+    "imageFile": "red/tkneeland.png"
+  },
+  {
+    "id": "red-047",
+    "name": "Tony Mercadante",
+    "codename": "Tony Merc-ovigian",
+    "nameDescription": "A play on the Merovingian and his last name.",
+    "backstory": "Tony Merc-ovigian is the team's linguist, able to speak the archaic languages of the earliest Matrix versions.",
+    "imageFile": "red/tmercadante.png"
+  },
+  {
+    "id": "red-048",
+    "name": "Zach Hartman",
+    "codename": "Zach Hardline",
+    "nameDescription": "Punning his last name with the exit point.",
+    "backstory": "Zach Hardline is the closer; when the mission is done, he ensures everyone is safely unplugged before the Agents arrive.",
+    "imageFile": "red/zhartman.png"
+  }
+]

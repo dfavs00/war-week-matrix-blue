@@ -11,7 +11,7 @@ interface SectionFrameProps {
  */
 const SectionFrame = ({ title, subtitle, children }: SectionFrameProps) => {
   return (
-    <section className="relative overflow-hidden rounded-2xl border border-[var(--matrix-border)] bg-[var(--matrix-panel)]/80 p-6 shadow-[0_0_25px_rgba(80,165,255,0.25)] backdrop-blur">
+    <section className="relative overflow-hidden rounded-2xl border border-[var(--matrix-border)] bg-[var(--matrix-panel)]/80 p-6 shadow-[0_0_25px_var(--matrix-glow-panel)] backdrop-blur">
       <div className="absolute inset-0 border border-[var(--matrix-accent)]/40" />
       <div className="relative space-y-1">
         <p className="font-display text-xs uppercase tracking-[0.35em] text-[var(--matrix-accent)]">{title}</p>

@@ -2,32 +2,32 @@ import { useMemo, type ReactNode } from 'react'
 import TeamRosterLayout from '../components/TeamRosterLayout'
 import { type RosterHeaderProps } from '../components/RosterHeader'
 import SectionFrame from '../components/SectionFrame'
-import { useRosterData } from '../hooks/useRosterData'
+import { useRedRosterData } from '../hooks/useRedRosterData'
 import { getRosterStats } from '../utils/roster'
 
-interface RosterPageProps {
+interface RedRosterPageProps {
   topSlot?: ReactNode
 }
 
 /**
- * Main roster page for the Blue Team Arsenal.
+ * Main roster page for the Red Team uprising.
  */
-const RosterPage = ({ topSlot }: RosterPageProps) => {
-  const { roster } = useRosterData()
+const RedRosterPage = ({ topSlot }: RedRosterPageProps) => {
+  const { roster } = useRedRosterData()
   const stats = useMemo(() => getRosterStats(roster), [roster])
 
   const header: RosterHeaderProps = useMemo(
     () => ({
-      teamLabel: 'Blue Team Arsenal',
-      title: 'Elite Cyber-Rebellion Roster',
+      teamLabel: 'Red Team Vanguard',
+      title: 'Adversary Operative Registry',
       description:
-        'A tactical registry of Zion operatives. Each profile is synced from the core roster feed and matched to the latest surveillance captures.',
-      statusLabel: 'System Status',
-      statusValue: 'ONLINE',
+        'A speculative roster of hostile operators. Placeholder dossiers stand in until the full red-team feed lands.',
+      statusLabel: 'Threat Status',
+      statusValue: 'MONITORING',
       statCards: [
         { label: 'Operatives', value: stats.totalOperatives },
-        { label: 'One Mission', value: 'Winning' },
-        { label: 'Red Team Success Chance', value: '0%' },
+        { label: 'One Mission', value: 'Losing' },
+        { label: 'Change of Winning', value: '0%' },
       ],
     }),
     [stats.totalOperatives]
@@ -37,24 +37,25 @@ const RosterPage = ({ topSlot }: RosterPageProps) => {
     <TeamRosterLayout
       roster={roster}
       header={header}
-      gridTitle="Operative Grid"
-      gridSubtitle="Zion Rebel Cadre"
+      gridTitle="Adversary Grid"
+      gridSubtitle="Incoming Threat Cadre"
       topSlot={topSlot}
+      themeClassName="red-theme"
       afterGridSection={
-        <SectionFrame title="Red Team Reality Check" subtitle="Simulation: Unfavorable">
+        <SectionFrame title="Blue Team Response" subtitle="Counter-ops engaged">
           <div className="grid gap-4 md:grid-cols-3">
             {[
               {
-                title: 'Packet Loss Prophecy',
-                copy: 'Red Team pings the void while Blue Team routes clean signals straight to the mainframe.',
+                title: 'Containment Protocol',
+                copy: 'Blue Team threat hunters have locked Red Team movement to a monitored sandbox.',
               },
               {
-                title: 'Latency Forecast',
-                copy: 'Their exploits queue up; our countermeasures execute in real time.',
+                title: 'Signal Scramble',
+                copy: 'Every exploit attempt triggers countermeasures before the packet hits the vault.',
               },
               {
-                title: 'Outcome Statement',
-                copy: 'Prediction locked: Blue Team holds the line, Red Team respawns in defeat.',
+                title: 'Resolution Forecast',
+                copy: 'Projected outcome favors Blue Team; red offensive momentum remains capped.',
               },
             ].map((item) => (
               <div
@@ -72,4 +73,4 @@ const RosterPage = ({ topSlot }: RosterPageProps) => {
   )
 }
 
-export default RosterPage
+export default RedRosterPage
