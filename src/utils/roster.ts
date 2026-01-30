@@ -2,6 +2,7 @@ export interface OperativeProfile {
   id: string
   name: string
   codename: string
+  nameDescription: string
   backstory: string
   imageFile: string
 }

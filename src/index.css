@@ -97,6 +97,28 @@ body {
   box-shadow: 0 0 20px rgba(80, 165, 255, 0.15);
 }
 
+.matrix-flip {
+  perspective: 1200px;
+}
+
+.matrix-flip-inner {
+  transform-style: preserve-3d;
+  transition: transform 0.6s ease;
+}
+
+.matrix-flip:hover .matrix-flip-inner,
+.matrix-flip:focus-within .matrix-flip-inner {
+  transform: rotateY(180deg);
+}
+
+.matrix-flip-face {
+  backface-visibility: hidden;
+}
+
+.matrix-flip-back {
+  transform: rotateY(180deg);
+}
+
 @keyframes matrix-rain {
   0% {
     transform: translateY(-40%);
