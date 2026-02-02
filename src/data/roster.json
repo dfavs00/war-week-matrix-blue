@@ -272,6 +272,14 @@
     "imageFile": "blue/jcantor-stone.png"
   },
   {
+    "id": "blue-049",
+    "name": "Justin Gillespie",
+    "codename": "Justin Glitch-espie",
+    "nameDescription": "A play on his last name and the 'glitch in the Matrix' phenomenon.",
+    "backstory": "Justin Glitch-espie specializes in identifying recurring data patterns that indicate a system reset, helping the team exploit temporary tears in the simulation.",
+    "imageFile": "blue/jgillespie.png"
+  },
+  {
     "id": "blue-031",
     "name": "Kari Skinner",
     "codename": "Copper-Top Kari",

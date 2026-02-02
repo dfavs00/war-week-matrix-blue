@@ -202,9 +202,9 @@
   {
     "id": "red-026",
     "name": "James Murphy",
-    "codename": "James Morph-y",
+    "codename": "James Murpheus",
     "nameDescription": "A playful nod to Morpheus.",
-    "backstory": "James Morph-y is a shapeshifter of sorts, specializing in 'glitching' his avatar to look like different NPCs to stay hidden in the Matrix.",
+    "backstory": "James Murpheus is a shapeshifter of sorts, specializing in 'glitching' his avatar to look like different NPCs to stay hidden in the Matrix.",
     "imageFile": "red/jmurphy.png"
   },
   {
@@ -310,6 +310,14 @@
     "nameDescription": "Punning 'Mainframe' with his last name.",
     "backstory": "Paul Mainfarlane is the hardware guru, maintaining the core computers that keep the Red Team's minds connected to the Matrix.",
     "imageFile": "red/pmacfarlane.png"
+  },
+  {
+    "id": "red-049",
+    "name": "Rebecca Congi",
+    "codename": "Rebecca Re-Congi-fure",
+    "nameDescription": "A play on her last name and 'reconfigure,' the act of altering Matrix objects or environments.",
+    "backstory": "Rebecca Re-Congi-fure is the team’s environmental specialist, capable of reconfiguring the geometry of a room to create instant cover or hidden exits during a firefight.",
+    "imageFile": "red/rcongi.png"
   },
   {
     "id": "red-040",

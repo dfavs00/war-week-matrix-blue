@@ -27,7 +27,7 @@ const RedRosterPage = ({ topSlot }: RedRosterPageProps) => {
       statCards: [
         { label: 'Operatives', value: stats.totalOperatives },
         { label: 'One Mission', value: 'Losing' },
-        { label: 'Change of Winning', value: '0%' },
+        { label: 'Chance of Winning', value: '0%' },
       ],
     }),
     [stats.totalOperatives]
