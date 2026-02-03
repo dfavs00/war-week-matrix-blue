@@ -12,7 +12,7 @@ Matrix-themed roster app for War Week. Built with Vite, React, TypeScript, and T
 ```bash
 npm install
 ```
-
+ 
 ### Environment Variables
 
 This project does not require any environment variables by default. The `.env` file is still supported (and gitignored) for future Vite variables.
