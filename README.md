@@ -1,4 +1,4 @@
-# Blue Team Arsenal
+# War Week Arsenal
 
 Matrix-themed roster app for War Week. Built with Vite, React, TypeScript, and Tailwind, styled as a futuristic command terminal for the Blue Pill team.
 
